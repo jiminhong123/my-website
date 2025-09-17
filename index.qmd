@@ -1,0 +1,49 @@
+---
+title: "Dive into Jimin"
+---
+👋 Welcome
+
+Hi, I’m **Jimin Hong**, a graduate student at Baruch College (Zicklin School of Business) pursuing an **MS in Business Analytics with a concentration in Marketing Analysis**.  
+
+I’m passionate about **data analytics, marketing strategy, and digital content creation**.  
+Currently, I’m working on projects that connect **data-driven insights with real-world marketing applications**.  
+
+---
+
+# 📷 About Me  
+- 🎓 Graduate Student @ Baruch College  
+- 📊 Interests: Marketing Analytics, Brand Strategy, Digital Marketing  
+- 🌍 Cross-cultural experiences bridging Korea and the U.S. 
+
+---
+
+# 🌐 Connect 
+- [LinkedIn](https://www.linkedin.com/in/jimin-hong-8594b7272)
+
+```{r}
+#| include: false
+1+1
+```
+--------------
+Last Updated: `r format(Sys.time(), "%A %m %d, %Y at %H:%M%p")`
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+if(!require("leaflet")){
+    options(repos=c(CRAN="https://cloud.r-project.org"))
+    install.packages("leaflet")
+    stopifnot(require("leaflet"))
+}
+
+baruch_longitude <- -73.98333
+baruch_latitude  <- +40.74028
+
+leaflet() |>
+  addTiles() |>
+  setView(baruch_longitude, baruch_latitude, zoom=17) |>
+  addPopups(baruch_longitude, baruch_latitude, 
+            "I am a Master's student at <b>Baruch College</b>!")
+```
