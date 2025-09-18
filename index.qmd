@@ -1,7 +1,6 @@
 ---
-title: "Dive into Jimin"
+title: "👋 Welcome"
 ---
-👋 Welcome
 
 Hi, I’m **Jimin Hong**, a graduate student at Baruch College (Zicklin School of Business) pursuing an **MS in Business Analytics with a concentration in Marketing Analysis**.  
 
@@ -14,7 +13,7 @@ Currently, I’m working on projects that connect **data-driven insights with re
 - 🎓 Graduate Student @ Baruch College  
 - 📊 Interests: Marketing Analytics, Brand Strategy, Digital Marketing  
 - 🌍 Cross-cultural experiences bridging Korea and the U.S. 
-
+- 📄 Resume (Resume_Jimin Hong__Pdf.pdf){target="_blank"}
 ---
 
 # 🌐 Connect 
