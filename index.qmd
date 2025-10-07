@@ -1,6 +1,8 @@
 
 ---
 title: "👋 Welcome"
+resources:
+  - Resume_Jimin_Hong.pdf
 ---
 ![](headshot.jpg){style="width:240px; height:240px; border-radius:50%; object-fit:cover; object-position:50% 30%; display:block; margin:0 auto;"}
 <div style="text-align:center; max-width:720px; margin:0 auto;">
@@ -9,7 +11,7 @@ title: "👋 Welcome"
   <p>I love <b>uncovering</b> insights through analytics to design smarter marketing strategies and elevate the customer experience.</p>
   <p>Outside of academics, I enjoy creating <b>digital content</b> and exploring <b>new marketing trends</b>.</p>
   
-   📄 [Resume](Resume_Jimin_Hong.pdf)
+   📄 [Veiw Resume](Resume_Jimin_Hong.pdf)
 
 
 
