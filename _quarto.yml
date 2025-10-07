@@ -6,7 +6,7 @@ website:
   title: "Dive into Jimin"
   description:
     Jimin's personal website 
-  site-url: "https://Jimin Hong.github.io/my-website/"
+  site-url: "https://jiminhong123.github.io/my-website/"
   navbar:
     background: primary
     search: false
