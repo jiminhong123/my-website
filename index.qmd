@@ -1,25 +1,34 @@
+
 ---
 title: "👋 Welcome"
 ---
-![](headshot.jpg){style="width:160px; height:160px; border-radius:50%; object-fit:cover; display:block; margin:0 auto;"}
+![](headshot.jpg){style="width:240px; height:240px; border-radius:50%; object-fit:cover; object-position:50% 30%; display:block; margin:0 auto;"}
+<div style="text-align:center; max-width:720px; margin:0 auto;">
+  <h1>Hi I'm Jimin!</h1>
+  <p>I'm currently <b>pursuing</b> a **Master's in Business Analytics with a concentration in Marketing Analytics**.</p>
+  <p>I love <b>uncovering</b> insights through analytics to design smarter marketing strategies and elevate the customer experience.</p>
+  <p>Outside of academics, I enjoy creating <b>digital content</b> and exploring <b>new marketing trends</b>.</p>
+  
+  📄 [Resume](Resume_Jimin%20Hong.pdf)
 
+</div>
+
+
+</div>
 ---
 
-# 📷 About Me  
-- 🎓 Graduate Student @ Baruch College  
-- 📊 Interests: Marketing Analytics, Brand Strategy, Digital Marketing  
-- 🌍 Cross-cultural experiences bridging Korea and the U.S. 
-- 📄 Resume 
----
+
+# 📷 About Me
+- 🎓 Graduate Student @ Baruch College
+- 📊 Interests: Marketing Analytics, Brand Strategy, Digital Marketing
+- 🌏 Cross-cultural experiences bridging Korea and the U.S.
+- 📄 Resume
+
 
 # 🌐 Connect 
 - [LinkedIn](https://www.linkedin.com/in/jimin-hong-8594b7272)
 
-```{r}
-#| include: false
-1+1
-```
---------------
+
 Last Updated: `r format(Sys.time(), "%A %m %d, %Y at %H:%M%p")`
 
 ```{r}
