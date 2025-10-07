@@ -16,6 +16,7 @@ title: "👋 Welcome"
 
 
 
+
 </div>
 ---
 
@@ -24,7 +25,7 @@ title: "👋 Welcome"
 - 🎓 Graduate Student @ Baruch College
 - 📊 Interests: Marketing Analytics, Brand Strategy, Digital Marketing
 - 🌏 Cross-cultural experiences bridging Korea and the U.S.
-- 📄 Resume
+
 
 
 # 🌐 Connect 
