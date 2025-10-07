@@ -9,10 +9,11 @@ title: "👋 Welcome"
   <p>I love <b>uncovering</b> insights through analytics to design smarter marketing strategies and elevate the customer experience.</p>
   <p>Outside of academics, I enjoy creating <b>digital content</b> and exploring <b>new marketing trends</b>.</p>
   
-     📄 [Resume](Resume_Jimin_Hong.pdf)
+   📄 [Resume](Resume_Jimin_Hong.pdf)
 
 
-</div>
+
+
 
 
 </div>
